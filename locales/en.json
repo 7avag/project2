@@ -1,0 +1,19 @@
+{
+  "start_text": "Hello, {user_name}! I'm a sample aiogram bot.\nChoose an action from the menu below.",
+  "help_text": "Available commands:\n/start — start bot\n/help — this help message\n/joke — get a random joke\n/notes — work with notes\n/language — change language\n/broadcast — admin broadcast\n/stats — stats (admins only)",
+  "joke_loading": "Fetching a joke for you...",
+  "language_changed": "Language changed to: {lang}",
+  "notes_menu": "Choose notes action:",
+  "enter_note_text": "Enter the text for the new note:",
+  "enter_delete_id": "Enter the ID of the note you want to delete:",
+  "invalid_id": "Invalid ID. Please enter a number.",
+  "note_not_found": "Note with ID {note_id} not found.",
+  "note_deleted": "Note with ID {note_id} has been deleted.",
+  "note_added": "Note added with ID {note_id}.",
+  "notes_list_empty": "You have no notes yet.",
+  "broadcast_usage": "Usage: /broadcast <text>",
+  "broadcast_prefix": "📢",
+  "broadcast_result": "Broadcast finished.\nSent: {sent}\nFailed: {failed}",
+  "stats_text": "Total users: {count}",
+  "action_canceled": "Action canceled."
+}
